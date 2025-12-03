@@ -1,6 +1,6 @@
 # GoogleColab_NHFD_WebScraper
 
-Run the webscraper by opening the relevant jupyter notebook and clicking on the button at the top `Run in Colab`
+Run the webscraper by opening the relevant jupyter notebook (`*.ipynb`) and clicking on the button at the top `Open in Colab`
 
 There are currently two versions of the webscraper, they download the same data (latest extracts fr=om NHFD website) but in different formats:
 
