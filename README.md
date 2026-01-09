@@ -1,7 +1,7 @@
 # GoogleColab_NHFD_WebScraper
 
-Run the webscraper by opening the relevant jupyter notebook (`*.ipynb`) and clicking on the button at the top `Open in Colab`
-
+Run the webscraper by opening the relevant jupyter notebook (`*.ipynb`) and clicking on these links: 
+- V2_GoogleColab_NHFD_WebScraper: https://githubtocolab.com/NHS-Executive/GoogleColab_NHFD_WebScraper/blob/main/V2_GoogleColab_NHFD_WebScraper.ipynb
 There are currently two versions of the webscraper, they download the same data (latest extracts fr=om NHFD website) but in different formats:
 
 - `GoogleColab_NHFD_WebScraper.ipynb`: legacy webscraper, it downloads data files divided by site and metric. You can currently upload these files in the relevant buckets of the project:
